@@ -48,7 +48,7 @@ WordPress is available in over 50 (fully translated) languages and has a huge in
 
 Over 800 meetups can be found worldwide in bigger cities and other popular places where WordPress-interested developers, users and designers regularly work in easy-going, self-organized groups to solve problems and discuss selected topics.
 
-In addition there are national as well as international and local WordCamps (bar camps for WordPress-users and developers) which take place in different locations. 
+In addition there are national as well as international and local WordCamps (BarCamps for WordPress-users and developers) which take place in different locations. 
 
 
 |Online | |
