@@ -37,9 +37,9 @@ Für iOS und Android gibt es offizielle Apps zur Bedienung über mobile Endgerä
 
 
 ## Community
-In Deutschland, Österreich und der Schweiz findet mittlerweile ein gutes Dutzend Meetups in den größten Städten und Ballungszentren statt. Dort treffen sich WordPress interessierte EntwicklerInnen, AnwenderInnen und DesignerInnen regelmäßig in lockerer, selbst organisierter Runde, arbeiten gemeinsam an Problemen und diskutieren ausgewählte Themen. 
-An wechselnden Standorten finden außerdem überregionale WordCamps (Barcamps für WordPress-NutzerInnen und -EntwicklerInnen) statt, die lokal und international ausgerichtet werden.
 WordPress ist in über 50 Sprachen komplett (sowie in rd. 30 weiteren unvollständig) übersetzt verfügbar und verfügt weltweit über eine große Benutzer-/Entwicklergemeinschaft. Neben der hervorragenden Dokumentation auf WordPress.org gibt es eine Vielzahl an Fachblogs, Foren, Chats, Seminare, Webinaren, Literatur und Videos. Darüber hinaus entstehen immer mehr lokale Benutzergruppen, die sich in sogenannten WordPress-Meetups organisieren.
+In Deutschland, Österreich und der Schweiz findet mittlerweile knapp drei Dutzend Meetups in den größten Städten und Ballungszentren statt. Dort treffen sich WordPress interessierte EntwicklerInnen, AnwenderInnen und DesignerInnen regelmäßig in lockerer, selbst organisierter Runde, arbeiten gemeinsam an Problemen und diskutieren ausgewählte Themen. 
+An wechselnden Standorten finden außerdem überregionale WordCamps (an Barcamps angelehnte Konferenzen für WordPress-NutzerInnen und -EntwicklerInnen) statt, die lokal und international ausgerichtet werden.
 
 
 
