@@ -55,5 +55,5 @@ In addition there are national as well as international and local WordCamps (Bar
 |:— |:—— |:——|
 |international platform | wordpress.org |
 |hosted Weblogs | wordpress.com |
-|Chat Plattfrom | central.wordcamp.org |
+|Chat Plattfrom | chat.wordpress.org |
 |WordCamps around the world| central.wordcamp.org|
