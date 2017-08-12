@@ -46,7 +46,7 @@ There are apps to operate WordPress on a mobile device for iOS and Android. Howe
 ## Community
 WordPress is available in over 50 (fully translated) languages and has a huge international user/developer community. In addition to the excellent documentation on WordPress.org there is a multitude of professionals blogs, forums, chats, seminars, webinars, literatures and videos. Furthermore there is a movement to start more and more local user-groups, which organize themselves in so-called WordPress Meetups.
 
-Over 800 meetups can be found worldwide in bigger cities and other popular places where WordPress-interested developers, users and designers regularly work in easy-going, self-organized groups to solve problems and discuss selected topics.
+Over 400 meetups can be found worldwide in bigger cities and other popular places where WordPress-interested developers, users and designers regularly work in easy-going, self-organized groups to solve problems and discuss selected topics.
 
 In addition there are national as well as international and local WordCamps (BarCamps for WordPress-users and developers) which take place in different locations. 
 
