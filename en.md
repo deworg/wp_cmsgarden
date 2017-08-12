@@ -40,7 +40,7 @@ On the other hand, there has been a movement within the past years to provide pr
 
 
 ## Mobile apps
-There are apps to operate WordPress on a mobile device for iOS, Android, Windows Phone and Blackberry. However, the WordPress backend is designed for a comfortable use on mobile devices without any apps and allows you to edit your content as well as to manage your installations.
+There are apps to operate WordPress on a mobile device for iOS and Android. However, the WordPress backend is designed for a comfortable use on mobile devices without any apps and allows you to edit your content as well as to manage your installations.
 
 
 ## Community

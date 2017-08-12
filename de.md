@@ -33,7 +33,7 @@ Neben Plugins und Themes umfasst das WordPress-Ökosystem eine Reihe von externe
 
 
 ## Mobile Apps
-Für iOS, Android, Windows Phone und Blackberry gibt es Apps zur Bedienung über mobile Endgeräte. Die Administrationsoberfläche von WordPress lässt sich auf mobilen Geräten jedoch auch ohne Apps komfortabel nutzen und erlaubt das Einstellen und Anpassen von Inhalten, sowie die Verwaltung der Installation auf nahezu jedem Gerät.
+Für iOS und Android gibt es offizielle Apps zur Bedienung über mobile Endgeräte. Die Administrationsoberfläche von WordPress lässt sich auf mobilen Geräten jedoch auch ohne Apps komfortabel nutzen und erlaubt das Einstellen und Anpassen von Inhalten, sowie die Verwaltung der Installation auf nahezu jedem Gerät.
 
 
 ## Community
