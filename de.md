@@ -49,5 +49,5 @@ An wechselnden Standorten finden außerdem überregionale WordCamps (an Barcamps
 |deutsche Plattfrom | de.wordpress.org | 
 |hosted Weblogs | wordpress.com |
 |Plattform der lokalen deutschen Communites | wpmeetups.de |
-|Chat-Plattfrom der deutschen Community | dewp.slack.com |
-|WordCamps Rund um die Welt (en)| central.wordcamp.org|
+|Chat-Plattform der deutschen Community | dewp.slack.com |
+|WordCamps rund um die Welt (en)| central.wordcamp.org|
