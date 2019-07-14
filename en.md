@@ -4,13 +4,15 @@
 |:--- |:---- |
 |Initial release | 2004 |
 |Open source as of | 2004 |
-|Current major release | 4.9 | 
-|Languages | >50 |
+|Current major release | 5.2 | 
+|Languages | >80 |
 |Total installations | >75 million |
 
 WordPress is the most used content management system worldwide. It relies on the common combination of PHP and MySQL and runs on all webspace hosts.
 
 Originally designed as a pure blog-system, WordPress rapidly spread out in the world of blogs and slowly converted into an adequate CMS. Today you can use WordPress to build complex websites, shops and communities.
+
+Since version 5.0 WordPress has a block-based editor, which provides a modern interface for writing simple articles as well as for building complex structured pages.
 
 
 ## User-friendly expandability
@@ -44,9 +46,9 @@ There are apps to operate WordPress on a mobile device for iOS and Android. Howe
 
 
 ## Community
-WordPress is available in over 50 (fully translated) languages and has a huge international user/developer community. In addition to the excellent documentation on WordPress.org there is a multitude of professionals blogs, forums, chats, seminars, webinars, literatures and videos. Furthermore there is a movement to start more and more local user-groups, which organize themselves in so-called WordPress Meetups.
+WordPress is available in over 80 (fully translated) languages and has a huge international user/developer community. In addition to the excellent documentation on WordPress.org there is a multitude of professionals blogs, forums, chats, seminars, webinars, literatures and videos. Furthermore there is a movement to start more and more local user-groups, which organize themselves in so-called WordPress Meetups.
 
-Over 400 meetups can be found worldwide in bigger cities and other popular places where WordPress-interested developers, users and designers regularly work in easy-going, self-organized groups to solve problems and discuss selected topics.
+Over 770 meetups can be found worldwide in bigger cities and other popular places where WordPress-interested developers, users and designers regularly work in easy-going, self-organized groups to solve problems and discuss selected topics.
 
 In addition there are national as well as international and local WordCamps (BarCamp like conferences for WordPress-users and developers) which take place in different locations. 
 

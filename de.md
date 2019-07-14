@@ -4,17 +4,19 @@
 |:--- |:---- |:----|
 |Erstmal veröffentlicht | 2004 |
 |Open Source seit | 2004 |
-|Aktuelle Major Release | 4.9 | 
-|Verfügbare Sprachen | >50 |
+|Aktuelle Major Release | 5.2 | 
+|Verfügbare Sprachen | >80 |
 |Anzahl Downloads | >75 Mio. |
   
-WordPress ist das weltweit am häufigsten eingesetzte Content-Management-System. Das System setzt auf die verbreitete Kombination von PHP und MySQL und läuft problemlos bei nahezu allen Webspace-Anbietern. 
+WordPress ist das weltweit am häufigsten eingesetzte Content-Management-System. Das System setzt auf die verbreitete Kombination von PHP und MySQL und läuft problemlos bei nahezu allen Webspace-Anbietern.
 
 Ursprünglich als reines Blog-System entwickelt, fand WordPress schnell weite Verbreitung in der Welt der Blogs, wurde aber nach und nach zu einem vollwertigen CMS ausgebaut. Heute lassen sich mit WordPress ohne Weiteres komplexe Webauftritte, Shops oder gar Community-Plattformen aufbauen.
 
+Seit Version 5.0 verfügt WordPress standardmäßig über einen Block-basierten Editor, der sowohl zum Schreiben einfacher Beiträge als auch für den Aufbau komplexer strukturierter Seiten ein zeitgemäßes Interface bereitstellt.
+
 
 ## Benutzerfreundliche Erweiterbarkeit
-In der Entwicklung des Backends, der Oberfläche zur technischen und inhaltlichen Verwaltung des Systems, gilt die Philosophie: “Decisions, not Options”. Bestechend einfach ist daher auch die Inhaltserstellung mit dem „nackten“ System: Grundsätzlich unterscheidet WordPress dabei zwischen statischen Seiten und dynamischen Beiträgen. Diese können mit einem einfachen Editor erstellt und mit Bildern oder anderen Medien angereichert werden. Beiträge werden automatisch nach Aktualität sortiert auf der Startseite aufgelistet.
+In der Entwicklung des Backends, der Oberfläche zur technischen und inhaltlichen Verwaltung des Systems, gilt die Philosophie: „Decisions, not Options”. Bestechend einfach ist daher auch die Inhaltserstellung mit dem „nackten“ System: Grundsätzlich unterscheidet WordPress dabei zwischen statischen Seiten und dynamischen Beiträgen. Beide können mit einem einfachen Editor erstellt und mit Bildern oder anderen Medien angereichert werden. Beiträge werden automatisch nach Aktualität sortiert auf der Startseite aufgelistet.
 
 Für Anforderungen, die über die Standardfunktionen hinausgehen, sind tausende Erweiterungen, sogenannte Plugins, im zentralen Plugin-Verzeichnis auf WordPress.org kostenfrei verfügbar. Aus dem Plugin-Verzeichnis lassen sich Plugins einfach direkt über die Plugin-Verwaltung des WordPress-Backends installieren oder manuell via FTP auf den Server laden. Plugins lassen sich bei Bedarf mit einem einzigen Knopfdruck aktualisieren. Kritische Sicherheits-Updates werden automatisch installiert. 
 Die Palette an ausgereiften und regelmäßig gepflegten Plugins, etwa für Suchmaschinenoptimierung, Mehrsprachigkeit oder e-Commerce, ist groß und qualitativ hochwertig. Zusätzlich zu den vielen tausend kostenfreien Plugins hat sich um WordPress ein eigenes Ökosystem kostenpflichtiger Plugins entwickelt, die von ihren Entwicklerinnen und Entwicklern auf verschiedenen Plattformen angeboten werden.
@@ -37,8 +39,8 @@ Für iOS und Android gibt es offizielle Apps zur Bedienung über mobile Endgerä
 
 
 ## Community
-WordPress ist in über 50 Sprachen komplett (sowie in rd. 30 weiteren unvollständig) übersetzt verfügbar und verfügt weltweit über eine große Benutzer-/Entwicklergemeinschaft. Neben der hervorragenden Dokumentation auf WordPress.org gibt es eine Vielzahl an Fachblogs, Foren, Chats, Seminare, Webinaren, Literatur und Videos. Darüber hinaus entstehen immer mehr lokale Benutzergruppen, die sich in sogenannten WordPress-Meetups organisieren.
-In Deutschland, Österreich und der Schweiz findet mittlerweile knapp drei Dutzend Meetups in den größten Städten und Ballungszentren statt. Dort treffen sich WordPress interessierte EntwicklerInnen, AnwenderInnen und DesignerInnen regelmäßig in lockerer, selbst organisierter Runde, arbeiten gemeinsam an Problemen und diskutieren ausgewählte Themen. 
+WordPress ist in über 80 Sprachen komplett (sowie in rd. 20 weiteren unvollständig) übersetzt verfügbar und verfügt weltweit über eine große Benutzer-/Entwicklergemeinschaft. Neben der hervorragenden Dokumentation auf WordPress.org gibt es eine Vielzahl an Fachblogs, Foren, Chats, Seminare, Webinaren, Literatur und Videos. Darüber hinaus entstehen immer mehr lokale Benutzergruppen, die sich in sogenannten WordPress-Meetups organisieren.
+In Deutschland, Österreich und der Schweiz findet mittlerweile über drei Dutzend Meetups in den größten Städten und Ballungszentren statt. Dort treffen sich WordPress interessierte EntwicklerInnen, AnwenderInnen und DesignerInnen regelmäßig in lockerer, selbst organisierter Runde, arbeiten gemeinsam an Problemen und diskutieren ausgewählte Themen. 
 An wechselnden Standorten finden außerdem überregionale WordCamps (an Barcamps angelehnte Konferenzen für WordPress-NutzerInnen und -EntwicklerInnen) statt, die lokal und international ausgerichtet werden.
 
 
