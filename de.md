@@ -4,15 +4,15 @@
 |:--- |:---- |:----|
 |Erstmal veröffentlicht | 2004 |
 |Open Source seit | 2004 |
-|Aktuelle Major Release | 5.2 | 
+|Aktuelle Major Release | 5.6 | 
 |Verfügbare Sprachen | >80 |
 |Anzahl Downloads | >75 Mio. |
   
 WordPress ist das weltweit am häufigsten eingesetzte Content-Management-System. Das System setzt auf die verbreitete Kombination von PHP und MySQL und läuft problemlos bei nahezu allen Webspace-Anbietern.
 
-Ursprünglich als reines Blog-System entwickelt, fand WordPress schnell weite Verbreitung in der Welt der Blogs, wurde aber nach und nach zu einem vollwertigen CMS ausgebaut. Heute lassen sich mit WordPress ohne Weiteres komplexe Webauftritte, Shops oder gar Community-Plattformen aufbauen.
+Ursprünglich als reines Blog-System entwickelt, fand WordPress schnell weite Verbreitung in der Welt der Blogs, wurde aber nach und nach zu einem vollwertigen CMS ausgebaut. Heute lassen sich mit WordPress ohne Weiteres komplexe Web-Auftritte, Shops oder gar Community-Plattformen aufbauen.
 
-Seit Version 5.0 verfügt WordPress standardmäßig über einen Block-basierten Editor, der sowohl zum Schreiben einfacher Beiträge als auch für den Aufbau komplexer strukturierter Seiten ein zeitgemäßes Interface bereitstellt.
+WordPress verfügt standardmäßig über einen Block-basierten Editor, der sowohl zum Schreiben einfacher Beiträge als auch für den Aufbau komplexer strukturierter Seiten ein zeitgemäßes Interface bereitstellt.
 
 
 ## Benutzerfreundliche Erweiterbarkeit
