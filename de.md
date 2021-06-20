@@ -4,7 +4,7 @@
 |:--- |:---- |:----|
 |Erstmal veröffentlicht | 2004 |
 |Open Source seit | 2004 |
-|Aktuelle Major Release | 5.6 | 
+|Aktuelle Major Release | 5.8 | 
 |Verfügbare Sprachen | >80 |
 |Anzahl Downloads | >75 Mio. |
   
@@ -12,14 +12,14 @@ WordPress ist das weltweit am häufigsten eingesetzte Content-Management-System.
 
 Ursprünglich als reines Blog-System entwickelt, fand WordPress schnell weite Verbreitung in der Welt der Blogs, wurde aber nach und nach zu einem vollwertigen CMS ausgebaut. Heute lassen sich mit WordPress ohne Weiteres komplexe Web-Auftritte, Shops oder gar Community-Plattformen aufbauen.
 
-WordPress verfügt standardmäßig über einen Block-basierten Editor, der sowohl zum Schreiben einfacher Beiträge als auch für den Aufbau komplexer strukturierter Seiten ein zeitgemäßes Interface bereitstellt.
+WordPress verfügt standardmäßig über einen Block-basierten Editor, der sowohl zum Schreiben einfacher Beiträge als auch für den Aufbau komplexer strukturierter Seiten ein zeitgemäßes Interface bereitstellt und durch Full-Site-Editing noch mehr Gestaltungsmöglichkeiten für den gesamten Website-Aufbau bietet.
 
 
 ## Benutzerfreundliche Erweiterbarkeit
 In der Entwicklung des Backends, der Oberfläche zur technischen und inhaltlichen Verwaltung des Systems, gilt die Philosophie: „Decisions, not Options”. Bestechend einfach ist daher auch die Inhaltserstellung mit dem „nackten“ System: Grundsätzlich unterscheidet WordPress dabei zwischen statischen Seiten und dynamischen Beiträgen. Beide können mit einem einfachen Editor erstellt und mit Bildern oder anderen Medien angereichert werden. Beiträge werden automatisch nach Aktualität sortiert auf der Startseite aufgelistet.
 
-Für Anforderungen, die über die Standardfunktionen hinausgehen, sind tausende Erweiterungen, sogenannte Plugins, im zentralen Plugin-Verzeichnis auf WordPress.org kostenfrei verfügbar. Aus dem Plugin-Verzeichnis lassen sich Plugins einfach direkt über die Plugin-Verwaltung des WordPress-Backends installieren oder manuell via FTP auf den Server laden. Plugins lassen sich bei Bedarf mit einem einzigen Knopfdruck aktualisieren. Kritische Sicherheits-Updates werden automatisch installiert. 
-Die Palette an ausgereiften und regelmäßig gepflegten Plugins, etwa für Suchmaschinenoptimierung, Mehrsprachigkeit oder e-Commerce, ist groß und qualitativ hochwertig. Zusätzlich zu den vielen tausend kostenfreien Plugins hat sich um WordPress ein eigenes Ökosystem kostenpflichtiger Plugins entwickelt, die von ihren Entwicklerinnen und Entwicklern auf verschiedenen Plattformen angeboten werden.
+Für Anforderungen, die über die Standardfunktionen hinausgehen, sind tausende Erweiterungen, sogenannte Plugins, im zentralen Plugin-Verzeichnis auf WordPress.org kostenfrei verfügbar. Aus dem Plugin-Verzeichnis lassen sich Plugins einfach direkt über die Plugin-Verwaltung des WordPress-Backends installieren oder manuell via (S)FTP auf den Server laden. Plugins lassen sich bei Bedarf mit einem einzigen Knopfdruck aktualisieren. Kritische Sicherheits-Updates werden automatisch installiert. 
+Die Palette an ausgereiften und regelmäßig gepflegten Plugins, etwa für Suchmaschinenoptimierung, Mehrsprachigkeit oder eCommerce, ist groß und qualitativ hochwertig. Zusätzlich zu den vielen tausend kostenfreien Plugins hat sich um WordPress ein eigenes Ökosystem kostenpflichtiger Plugins entwickelt, die von ihren Entwicklerinnen und Entwicklern auf verschiedenen Plattformen angeboten werden.
 
 Auch im Bereich der Designs, bei WordPress sogenannte Themes, ist die Auswahl immens. Kostenfreie Themes werden, den Plugins nicht unähnlich, vorrangig über das zentrale Themen-Verzeichnis auf WordPress.org zur Verfügung gestellt. Zusätzlich zu tausenden freien hat sich auch bei Themes ein große Auswahl kostenpflichtiger Angebote entwickelt. Doch auch das Erstellen eigener Themes ist mit grundlegenden PHP-, HTML- und CSS-Kenntnissen dank diverser Vorlagen und ausführlicher Anleitungen recht einfach möglich. Mittlerweile sind alle neuen Themes responsiv, passen sich also der jeweiligen Bildschirmbreite an und sind somit auch für viele mobile Endgeräte wie Tablets und Mobiltelefone optimiert.
 
