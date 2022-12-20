@@ -4,7 +4,7 @@
 |:--- |:---- |
 |Initial release | 2004 |
 |Open source as of | 2004 |
-|Current major release | 6.0 | 
+|Current major release | 6.1 | 
 |Languages | >80 |
 |Total installations | >75 million |
 
@@ -12,7 +12,7 @@ WordPress is the most used content management system worldwide. It relies on the
 
 Originally designed as a pure blog system, WordPress rapidly spread out in the world of blogs and slowly converted into an adequate CMS. Today you can use WordPress to build complex websites, shops, and communities.
 
-WordPress has a block-based editor, which provides a modern interface for writing simple articles and building complex structured pages. With the new Full-Site Editing capabilities, customizing a website layout got more convenient.
+WordPress has a block-based editor, which provides a modern interface for writing simple articles and building complex structured pages. With the new Site-Editor Editing capabilities, customizing a website layout got more convenient.
 
 
 ## User-friendly expandability

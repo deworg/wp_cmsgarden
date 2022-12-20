@@ -4,7 +4,7 @@
 |:--- |:---- |:----|
 |Erstmal veröffentlicht | 2004 |
 |Open Source seit | 2004 |
-|Aktuelle Major Release | 6.0 | 
+|Aktuelle Major Release | 6.1 | 
 |Verfügbare Sprachen | >80 |
 |Anzahl Downloads | >75 Mio. |
   
@@ -12,7 +12,7 @@ WordPress ist das weltweit am häufigsten eingesetzte Content-Management-System.
 
 Ursprünglich als reines Blog-System entwickelt, fand WordPress schnell weite Verbreitung in der Welt der Blogs, wurde aber nach und nach zu einem vollwertigen CMS ausgebaut. Heute lassen sich mit WordPress ohne Weiteres komplexe Web-Auftritte, Shops oder gar Community-Plattformen aufbauen.
 
-WordPress verfügt standardmäßig über einen Block-basierten Editor, der sowohl zum Schreiben einfacher Beiträge als auch für den Aufbau komplexer strukturierter Seiten ein zeitgemäßes Interface bereitstellt und durch Full-Site-Editing noch mehr Gestaltungsmöglichkeiten für den gesamten Website-Aufbau bietet.
+WordPress verfügt standardmäßig über einen Block-basierten Editor. Dieser Editor steht zum Schreiben einfacher Beiträge aber auch für den Aufbau komplexer strukturierter Seiten ein zeitgemäßes Interface bereit. Unter den Namen "Site-Editor stehen die selben Werkzeuge aber auch für Anpassungen am  gesamten Website-Aufbau zur Verfügung.
 
 
 ## Benutzerfreundliche Erweiterbarkeit
