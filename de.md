@@ -4,7 +4,7 @@
 |:--- |:---- |:----|
 |Erstmal veröffentlicht | 2004 |
 |Open Source seit | 2004 |
-|Aktuelle Major Release | 6.1 | 
+|Aktuelle Major Release | 6.2 | 
 |Verfügbare Sprachen | >80 |
 |Anzahl Downloads | >75 Mio. |
   
